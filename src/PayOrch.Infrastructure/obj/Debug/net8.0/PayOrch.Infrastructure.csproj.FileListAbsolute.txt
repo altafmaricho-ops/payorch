@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Infrastructure.deps.json
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Infrastructure.dll
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Infrastructure.pdb
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Application.dll
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Domain.dll
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Domain.pdb
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\bin\Debug\net8.0\PayOrch.Application.pdb
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch..BED3485D.Up2Date
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.dll
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\refint\PayOrch.Infrastructure.dll
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\PayOrch.Infrastructure.pdb
+C:\Users\DELL\Downloads\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\src\PayOrch.Infrastructure\obj\Debug\net8.0\ref\PayOrch.Infrastructure.dll

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|c:\\users\\dell\\downloads\\payorchestrator-local-login-fixed-44333\\src\\payorch.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|solutionrelative:src\\payorch.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|c:\\users\\dell\\downloads\\payorchestrator-local-login-fixed-44333\\src\\payorch.api\\bootstrap\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|solutionrelative:src\\payorch.api\\bootstrap\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\PayOrch.Infrastructure\\PayOrch.Infrastructure.csproj|c:\\users\\dell\\downloads\\payorchestrator-local-login-fixed-44333\\src\\payorch.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000003}|src\\PayOrch.Infrastructure\\PayOrch.Infrastructure.csproj|solutionrelative:src\\payorch.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|c:\\users\\dell\\downloads\\payorchestrator-local-login-fixed-44333\\src\\payorch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|solutionrelative:src\\payorch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|c:\\users\\dell\\downloads\\payorchestrator-local-login-fixed-44333\\src\\payorch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000004}|src\\PayOrch.Api\\PayOrch.Api.csproj|solutionrelative:src\\payorch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\PayOrch.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\PayOrch.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAowIgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:45:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\Bootstrap\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "src\\PayOrch.Api\\Bootstrap\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\Bootstrap\\DatabaseInitializer.cs",
+              "RelativeToolTip": "src\\PayOrch.Api\\Bootstrap\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:28:47.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PayOrch.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\Program.cs",
+              "RelativeToolTip": "src\\PayOrch.Api\\Program.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAADwv9kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:28:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "src\\PayOrch.Api\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\appsettings.Production.json",
+              "RelativeToolTip": "src\\PayOrch.Api\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T23:24:08.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PayOrch.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PayOrchestrator-LOCAL-LOGIN-FIXED-44333\\src\\PayOrch.Api\\appsettings.json",
+              "RelativeToolTip": "src\\PayOrch.Api\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T22:39:26.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
